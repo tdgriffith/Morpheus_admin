@@ -8,7 +8,7 @@ For beginners, [GitHub Desktop]( https://desktop.github.com/) is probably your b
 ## Installation
 1. Create a [GitHub Account]( https://github.com/join)
 2. Download [GitHub Desktop]( https://desktop.github.com/)
-3. Email to griffith@tamu.edu, so I can give you read-write access. 
+3. Email to me, so I can give you read-write access. 
 4. Clone repository into Github Desktop.
 
 
